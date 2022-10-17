@@ -5,4 +5,4 @@ Elena Palma
 Erika Trujillo
 Estudiantes de la UCACUE
 
-### Este es un pequeño ejercicio en GITHAB
+### Este es un pequeño ejercicio en GITHUB sobre ramas de ambientes
